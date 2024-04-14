@@ -8,9 +8,9 @@
 </div>
 
 这是完成作业的图
-![alt](./imgs/cour_1.png)
-![](./imgs/cour_2.png)
-![](./imgs/cour_3.png)
-![](./imgs/cour_4.png)
-![](./imgs/cour_5.png)
-![](./imgs/cour_6.png)
+![alt](./imgs/cour3_1.png)
+![alt](./imgs/cour3_2.png)
+![alt](./imgs/cour3_3.png)
+![alt](./imgs/cour3_4.png)
+![alt](./imgs/cour3_5.png)
+![alt](./imgs/cour3_6.png)
