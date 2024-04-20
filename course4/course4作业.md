@@ -1,6 +1,6 @@
 # XTuner 个人学习作业图
 
-![image](./无标题.png)
+![image](../无标题.png)
 ![image](./无标题1.png)
 ![image](./无标题2.png)
 ![image](./无标题3.png)
