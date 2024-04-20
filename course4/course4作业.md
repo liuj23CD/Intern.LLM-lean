@@ -5,7 +5,7 @@
 ![image](./无标题2.png)
 ![image](./无标题3.png)
 # XTuner 过度训练与未经训练的对比
-![image](./过度训练.png)
-![image](./过度训练gui.png)
+![image](./训练过度.png)
+![image](./训练过度gui.png)
 
 
