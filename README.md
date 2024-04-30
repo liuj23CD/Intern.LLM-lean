@@ -61,8 +61,8 @@ https://studio.intern-ai.org.cn/
 |第 3 节|"茴香豆"：搭建你的 RAG 智能助理	|神秘嘉宾| [文档](https://github.com/InternLM/Tutorial/tree/camp2/huixiangdou)、[视频](https://www.bilibili.com/video/BV1QA4m1F7t4)|
 |第 4 节|XTuner 微调 LLM：1.8B、多模态、Agent	|神秘嘉宾| [文档](https://github.com/InternLM/Tutorial/tree/camp2/xtuner)、[视频].(https://b23.tv/QUhT6ni|
 |第 5 节|LMDeploy 量化部署 LLM 实践 | 神秘嘉宾 | [文档](https://github.com/InternLM/Tutorial/tree/camp2/lmdeploy/README.md)、[视频](https://www.bilibili.com/video/BV1tr421x75B/) |
-|第 6 节|Lagent & AgentLego 智能体应用搭建	|神秘嘉宾| 文档、视频 |
-|第 7 节|OpenCompass 大模型评测实战	|神秘嘉宾| 文档、视频  |
+|第 6 节|Lagent & AgentLego 智能体应用搭建	|神秘嘉宾| [文档](https://github.com/InternLM/Tutorial/blob/camp2/agent/README.md)、[视频](https://www.bilibili.com/video/BV1Xt4217728/) |
+|第 7 节|OpenCompass 大模型评测实战	|神秘嘉宾| [文档](https://github.com/InternLM/Tutorial/blob/camp2/opencompass/readme.md)、视频  |
 |第 8 节|大模型微调数据构造	|神秘嘉宾| 文档、视频  |
 |第 9 节|平台工具类补充课程	| 神秘嘉宾 | 文档、视频  |
 
