@@ -15,3 +15,5 @@
 ![image](https://github.com/liuj23CD/Intern.LLM-lean/assets/132553256/283155d8-a248-43e8-80b3-a0ccf389829c)
 ![image](https://github.com/liuj23CD/Intern.LLM-lean/assets/132553256/e0181105-0f07-4982-96d3-cad5d67d6cd2)
 
+##使用网页客户端连接API服务器
+![image](https://github.com/liuj23CD/Intern.LLM-lean/assets/132553256/afccde17-647d-49b5-b082-5494a3cedd80)
