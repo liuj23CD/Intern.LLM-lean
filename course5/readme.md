@@ -3,7 +3,7 @@
 
 ##  安装LMDeploy
 
-接下来，激活刚刚创建的虚拟环境。
+激活虚拟环境。
 
 ```sh
 conda activate lmdeploy
